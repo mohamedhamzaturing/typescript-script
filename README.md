@@ -5,7 +5,7 @@ Script tag support for TypeScript
 Add the following lines at the bottom of your page: 
 ```html
 <script src="https://rawgit.com/Microsoft/TypeScript/master/lib/typescriptServices.js"></script>
-<script src="https://rawgit.com/mohamedhamzaturing/typescript-script/master/transpiler.js"></script>
+<script src="https://mohamedhamzaturing.github.io/typescript-script/transpiler.js"></script>
 ```
 
 And then you can use script tags that load `.ts` files or even have `typescript` inline: 
